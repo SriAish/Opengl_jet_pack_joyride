@@ -1,0 +1,3 @@
+/home/aishwarya/OpenGL/assign1/output/CMakeFiles/edit_cache.dir
+/home/aishwarya/OpenGL/assign1/output/CMakeFiles/rebuild_cache.dir
+/home/aishwarya/OpenGL/assign1/output/CMakeFiles/graphics_asgn1.dir
